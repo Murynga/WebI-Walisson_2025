@@ -3,6 +3,6 @@
 ## Walisson Fernandes Dias
 
 ### conhecimentos:
-HTML: Básico;
-CSS: Básico;
-JavaScript: Básico;
+HTML: Básico;  
+CSS: Básico;  
+JavaScript: Básico;  
